@@ -10,6 +10,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "danfojs-node": "^1.1.2"
+    "danfojs-node": "^1.1.2",
+    "random": "^5.1.0"
   }
 }
