@@ -1,0 +1,9 @@
+dfd new table 
+col pairs
+rows trueindex of left overs
+check greatest in col
+if tie check if has others - if not random
+check if winner has others
+if then cycle to back
+if not set winner
+delete row + columnx
